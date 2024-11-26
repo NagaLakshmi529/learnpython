@@ -1,5 +1,10 @@
 # learnpython
 
+# Printing the format of the output:
+**a)Using f-string**
+print(f"{s} * {i} =", s*i) //5*1=5 ....5*10=50
+**b)Using format()**
+print("{} * {} =".formate(s,i)
 # Unpacking the elements in list has 2 ways:
 **a) using "*" with print()**
 1.To unpack the elements in the list: *s // s=[1,2,3,4,5] print(*s) o/p: 1,2,3,4,5 
