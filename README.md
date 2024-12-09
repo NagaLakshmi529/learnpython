@@ -44,5 +44,5 @@ l1.sort(): updates the list to [1,2,7,8,15,21]
 •l1.remove(21): Will remove 21 from the list.
 
 
-**Strip() ** only removes characters (typically whitespace) from the start and end of a string, but does not modify or break up the content in the middle.
-**split() ** breaks a string into a list of substrings based on a delimiter (whitespace or specified character) and removes that delimiter in the process.
+**Strip()  only removes characters (typically whitespace) from the start and end of a string, but does not modify or break up the content in the middle.**
+**split() breaks a string into a list of substrings based on a delimiter (whitespace or specified character) and removes that delimiter in the process.**
